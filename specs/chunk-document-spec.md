@@ -116,11 +116,11 @@ handle these cases better, at the cost of more implementation complexity.
 **Actual chunk count produced across all 8 rule books:**
 
 ```
-[your answer here]
+149 chunks produced
 ```
 
 **One thing that surprised you or didn't match your expectations:**
 
 ```
-[your answer here]
+I didn't expect that the text would also be capturing characters like "\n" - not sure if this is pertinent or could be removed to save any space in DB and maybe even help with the performance as well
 ```
